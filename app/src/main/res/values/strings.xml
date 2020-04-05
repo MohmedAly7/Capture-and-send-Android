@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">myapp</string>
+    <string name="frameLayout">frame</string>
+    <string name="framelayout">frame</string>
+    <string name="frame_layout">frameLayout</string>
+    <string name="Frame_layout">frameLayout</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="ip_adress">IP adress</string>
+    <string name="send">Send</string>
+    <string name="capture">Capture</string>
+    <string name="name">Name</string>
+</resources>
